@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Rishikesh Shedge
 - 👨‍💻 Competitive Programmer | Web Developer
 - 🏆 Projects: [Crowd Tracker](github.com/yourusername/crowd-tracker), Hackathon Winner at AIT Pune
 
