@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
+- 👨‍💻 Competitive Programmer | Web Developer
+- 🏆 Projects: [Crowd Tracker](github.com/yourusername/crowd-tracker), Hackathon Winner at AIT Pune
 
-<!--
-**SkyDropTech/SkyDropTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-00EA6E?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)
+
+## 🔥 Current Projects
+- Crowd Tracker for AIT Pune
+- Full-stack hackathon web apps
+
+---
+
+> "Strive for progress, not perfection."
