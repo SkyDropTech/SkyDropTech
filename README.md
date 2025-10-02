@@ -1,24 +1,35 @@
-# Hi there 👋, I'm Rishikesh Shedge
-- 👨‍💻 Competitive Programmer | Web Developer
-- 🏆 Projects: [Crowd Tracker](github.com/yourusername/crowd-tracker), Hackathon Winner at AIT Pune
-
-## 🚀 Skills & Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-00EA6E?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)
-
-## 🔥 Current Projects
-- Crowd Tracker for AIT Pune
-- Full-stack hackathon web apps
+```md
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00F79C&center=true&vCenter=true&width=435&lines=Hey+👋;I'm+SkyDropTech;Full-Stack+Developer;Python+%7C+Flask+%7C+React" alt="Typing SVG" />
+</h1>
 
 ---
 
-> "Strive for progress, not perfection."
+### 👨‍💻 About Me
+- 🔭 Currently building projects with **Flask & React**
+- 🌱 Exploring **Backend Development & MongoDB**
+- 💡 Interested in **AI, Web Apps, and Automation**
+- ⚡ Fun fact: I debug 90% of the time 😅
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,javascript,react,mongodb,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SkyDropTech&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SkyDropTech&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SkyDropTech/SkyDropTech/output/github-contribution-grid-snake.svg" />
+</p>
+```
